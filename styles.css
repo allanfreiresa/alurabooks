@@ -3,9 +3,18 @@
 }
 
 body {
-    background-color: var(--cor-de-fundo);
+     background-color: var(--cor-de-fundo); 
+     /* font-family: Arial, sans-serif; */
+    
 }
 
 h1 {
-    background-color: white;
+     background-color: white;
+           
 }
+
+.container {
+    max-width: 100%;
+    padding: 0 15px;
+  }
+  
